@@ -1,0 +1,5 @@
+*.txt
+.idea
+__pycache__/
+*.pyc
+!*mem*
